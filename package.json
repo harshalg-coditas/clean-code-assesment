@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "name": "clean-code-assesment",
+  "version": "1.0.0",
+  "description": "Clean Code assesment-coditas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshalg-coditas/clean-code-assesment.git"
+  },
+  "author": "harshalg-coditas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshalg-coditas/clean-code-assesment/issues"
+  },
+  "homepage": "https://github.com/harshalg-coditas/clean-code-assesment#readme"
+}
